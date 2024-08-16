@@ -1,0 +1,46 @@
+{
+	"1": {
+		"nome": "Eduardo Lisboa",
+		"email": "eduardo.lisboa@edge.ufal.br",
+		"crm": "123456",
+		"telefone": "82993130476",
+		"especialidade": "ORTOPEDIA",
+		"endereco": {
+			"logradouro": "Avenida Doutor Mário Nunes Vieira",
+			"bairro": "Jatiúca",
+			"cep": "57035553",
+			"cidade": "Maceió",
+			"uf": "AL",
+			"numero": "398",
+			"complemento": "Apto 402, Edf São Raphael"
+		}
+	},
+	"2": {
+		"nome": "Maria Edislândia",
+		"email": "maednusi@gmail.com",
+		"crm": "123999",
+		"telefone": "82996363283",
+		"especialidade": "GINECOLOGIA",
+		"endereco": {
+			"logradouro": "Avenida Doutor Mário Nunes Vieira",
+			"bairro": "Jatiúca",
+			"cep": "57035553",
+			"cidade": "Maceió",
+			"uf": "AL"
+		}
+	},
+	"3": {
+		"nome": "Emília Tomásia",
+		"email": "emiliatll03@gmail.com",
+		"crm": "88877",
+		"telefone": "82993518173",
+		"especialidade": "CARDIOLOGIA",
+		"endereco": {
+			"logradouro": "Rua Prefeito Abdon Arroxelas",
+			"bairro": "Ponta Verde",
+			"cep": "57035380",
+			"cidade": "Maceió",
+			"uf": "AL"
+	}
+}
+}

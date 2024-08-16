@@ -1,0 +1,43 @@
+{
+	"1": {
+		"nome": "Eduardo",
+		"email": "eduardo.lisboa@edge.ufal.br",
+		"cpf": "071.488.504-52",
+		"telefone": "82993130476",
+		"endereco": {
+			"logradouro": "Avenida Doutor Mário Nunes Vieira",
+			"bairro": "Jatiúca",
+			"cep": "57035553",
+			"cidade": "Maceió",
+			"uf": "AL",
+			"numero": "398"
+		}
+	},
+	"2": {
+		"nome": "Maria",
+		"email": "maednusi@gmail.com",
+		"cpf": "099.155.534-12",
+		"telefone": "82996363283",
+		"endereco": {
+			"logradouro": "Avenida Doutor Mário Nunes Vieira",
+			"bairro": "Jatiúca",
+			"cep": "57035553",
+			"cidade": "Maceió",
+			"uf": "AL",
+            "complemento": "Apto 402"
+		}
+	},
+	"3": {
+        "nome": "Emília",
+        "email": "emiliatll03@gmail.com",
+        "cpf": "167.546.624-68",
+        "telefone": "82993518173",
+        "endereco": {
+            "logradouro": "Rua Prefeito Abdon Arroxelas",
+            "bairro": "Ponta Verde",
+            "cep": "57035380",
+            "cidade": "Maceió",
+            "uf": "AL"
+        }
+    }
+}
